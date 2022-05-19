@@ -28,7 +28,7 @@ I'm a Fullstack Developer that specialized in ReactJs, NodeJS, Express, Database
 ## Recent Projects ✍️
 
 - [Pursuit - Job Application Tracker](https://github.com/pphan93/pursuit)
-- [FastShion](https://github.com/pphan93/FastShion)
+- [FastShion - E-Commerce](https://github.com/pphan93/FastShion)
 
 ## Find me around the web 🌍
 
