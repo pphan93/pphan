@@ -33,7 +33,6 @@ I'm a Fullstack Developer that specialized in ReactJs, NodeJS, Express, Database
 ## Find me around the web 🌍
 
 - [**Website**](https://pphan.ca)
-- [**Twitter**](https://twitter.com/codingknite)
 - [**LinkedIn**](https://www.linkedin.com/in/phuoc-phan/)
 
 ********
