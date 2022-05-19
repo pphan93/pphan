@@ -1,4 +1,4 @@
-![gif](programming.gif)
+![gif](working.gif)
 
 ## **Hey, I'm Phuoc!** 👋
 
