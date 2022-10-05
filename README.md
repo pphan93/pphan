@@ -2,7 +2,7 @@
 
 ## **Hey, I'm Phuoc!** 👋
 
-I'm a Fullstack Developer that specialized in ReactJs, NodeJS, Express, Database.
+I'm a Fullstack Developer/Cloud Engineer that specialized in ReactJs, NodeJS, Express, Database.
 
 - 🌱 Looking to learn Python
 - 🔭 Working ...
